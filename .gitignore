@@ -1,0 +1,11 @@
+# Go build artifacts
+main
+main.exe
+*.exe
+*.out
+
+# IDE settings
+.vscode/*.log
+
+# Environment files
+.env
